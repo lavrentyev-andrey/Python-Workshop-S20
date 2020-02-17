@@ -1,7 +1,7 @@
 # Python Fundamentals and Programming Workshop 
 ## Course Description
 
-Python is a language with a simple syntax, and a powerful set of libraries. It is an interpreted language, with a rich programming environment, including a robust debugger and profiler. While it is easy for beginners to learn, it is widely used in many scientific areas for data exploration. This course is an introduction to the Python programming language for students without prior programming experience. We cover data types, control flow, object-oriented programming, and graphical user interface-driven applications. The examples and problems used in this course are drawn from diverse areas such as text processing, simple graphics creation and image manipulation, HTML and web programming, and genomics.
+Python is a language with a simple syntax, and a powerful set of libraries. It is an interpreted language, with a rich programming environment, including a robust debugger and profiler. While it is easy for beginners to learn, it is widely used in many scientific areas for data exploration. This course is an introduction to the Python programming language for students without prior programming experience. We cover data types, control flow, object-oriented programming, and graphical user interface-driven applications. 
 
 ## Instructor
 [Mr. Andrey Lavrentyev](lavrentyev.andrey242@gmail.com)
@@ -18,3 +18,8 @@ Python is a language with a simple syntax, and a powerful set of libraries. It i
   - Week 6, 3/25 Project Development  
   - Week 7, 4/1 Project Development
   
+## Homeworks
+  - [Homework #1](https://drive.google.com/open?id=1Zs1ipNNSNTWNJZ9aeZmKEu6Jj5OpuM1n)
+  - Homework #2
+  - Homework #3
+  - Homework #4
