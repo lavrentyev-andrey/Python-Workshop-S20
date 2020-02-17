@@ -8,11 +8,11 @@ Mr. Andrey Lavrentyev
 lavrentyev dot andrey242 at gmail dot com
 
  ## Tentative Schedule
-  Week 1, 2/19 
-  Week 2, 2/26
-  Week 3, 3/4
-  Week 4, 3/11
-  Week 5, 3/18 PyGame API programming
-  Week 6, 3/25 Project Development  
-  Week 7, 4/1 Project Development
+  - Week 1, 2/19 Introduction to Python, Data Types
+  - Week 2, 2/26
+  - Week 3, 3/4
+  - Week 4, 3/11 Object-Oriented Concepts, File Handling
+  - Week 5, 3/18 PyGame API programming
+  - Week 6, 3/25 Project Development  
+  - Week 7, 4/1 Project Development
   
