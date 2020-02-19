@@ -23,3 +23,7 @@ Python is a language with a simple syntax, and a powerful set of libraries. It i
   - Homework #2
   - Homework #3
   - Homework #4
+
+## How to install Python???
+  - [Installing Anaconda package](https://www.anaconda.com/distribution/#download-section) that includes Python. 
+  - Or only [Python](https://www.python.org/downloads/)
